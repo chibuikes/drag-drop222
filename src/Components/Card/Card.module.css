@@ -1,0 +1,33 @@
+.div{
+    background:rgba(235, 59, 15, 0.355); 
+    border:1px solid hsl(0, 0%, 30%);
+    border-radius: 10px;
+    padding: 7px;
+    margin: 10px 0px;
+    animation-name:back;
+    animation-duration: 6s;
+    animation-iteration-count: 1;
+    }
+    .div:hover{
+        background:rgba(235, 59, 15, 0.355); 
+      border:1px solid hsl(0, 0%, 30%);
+      border-radius: 10px;
+      padding: 7px;
+      margin: 10px 0px;
+    
+      cursor: pointer;
+      transform: scale(1.1);
+      }
+    
+      .img1{
+        height: 150px;
+        width:100%;
+      
+      }
+      .title{
+        text-transform: uppercase;
+        font-size: 12px;
+        font-weight: bold;
+        color:hsl(0, 0%, 10%);
+       
+    }
